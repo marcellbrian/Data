@@ -1,0 +1,16 @@
+﻿Hospital,Replace LED,Install solar panels,Install sensor on lights,Replace old energy-consuming Air conditioner,Electricity usage scheduling,Install efficient HVAC system,Ice Storage Air conditioning system,Steam Recovery System,CO2 monitoring system,Install high-efficient capacitors,Adopt high efficiency motor,Improving transfomers,Upgrade MRI cooling System,Efficient Heat Exchanger (Cooling Tower),Air Supply System
+小港醫院 (區域醫院),1,1,0,1,1,1,0,0,1,0,0,0,1,1,1
+大同醫院,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0
+高雄醫學大學,1,1,0,1,1,0,0,0,1,0,0,1,0,0,0
+馬偕紀念醫院,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+亞東紀念醫院,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+臺北醫學大學附設醫院,1,1,0,1,1,0,0,0,0,0,0,0,0,1,0
+高雄榮民總醫院,1,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+臺大醫院雲林分院,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+長庚醫院,1,1,0,1,0,1,0,1,0,0,1,0,0,1,1
+新光醫院,1,1,0,1,1,0,0,1,1,0,1,0,0,0,0
+桃園醫院,1,1,0,1,0,0,0,1,0,0,1,0,0,1,1
+衛生福利雙和醫院,1,1,0,0,1,0,0,0,0,1,0,0,0,1,1
+臺南市立安南醫院 委託中國醫藥大學興建經營,1,1,1,1,1,0,0,0,1,0,1,1,,0,0
+中國醫藥大學附設醫院 (新竹）,1,1,0,1,1,0,0,0,1,0,0,0,0,1,1
+臺安醫院,1,1,0,1,0,0,0,0,1,0,0,0,0,1,0
